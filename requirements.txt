@@ -1,0 +1,7 @@
+streamlit
+pandas
+python-docx
+holidays
+reportlab
+pytz
+openpyxl
